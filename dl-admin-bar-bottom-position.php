@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: DL Admin Bar Bottom Position
-Description: 
+Description: Этот плагин прижимает админ-панели к нижней части экрана!
 Plugin URI: http://vcard.dd-l.name/wp-plugins/
 Version: 1.0
 Author: Dyadya Lesha (info@dd-l.name)
