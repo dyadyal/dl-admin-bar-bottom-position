@@ -12,6 +12,8 @@ Stable tag: 1.0
 
 Этот плагин прижимает админ-панели к нижней части экрана!
 
+Если вы хотите помочь в разработке этого плагина - добро пожаловать на [github](https://github.com/dyadyal/dl-admin-bar-bottom-position)
+
 == Installation ==
 
 1. Загружаем плагин в директорию `/wp-content/plugins/` 
